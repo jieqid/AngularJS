@@ -277,5 +277,3 @@ For more information on AngularJS, please check out https://angularjs.org/.
 [node]: https://nodejs.org/
 [protractor]: http://www.protractortest.org/
 [selenium]: http://docs.seleniumhq.org/
-
-
